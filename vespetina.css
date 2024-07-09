@@ -1,0 +1,31 @@
+#botones{
+    float:right;
+    margin: 5px;
+     height: 67px;
+color: blueviolet;
+}
+
+
+#colegio{
+    font-family:Forte; 
+    font-size: 51px;
+    text-shadow: 3px 1px 4px #14430d, 1 2 4px white;
+    width: 45%;
+    font-size: 51px;
+
+}
+}
+.container-fluid{
+    background-color: limegreen;
+}
+
+.imagenes{
+     width: 1000px;
+      height: 1550;
+   float: none;
+    margin: 50px;
+    padding: 50px;
+
+}
+
+

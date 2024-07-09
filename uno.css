@@ -1,0 +1,26 @@
+body{background-color: cyan;
+    
+}
+#menu{background-color: aquamarine;
+    height: 10%;
+    width: 50%;
+    font-family: Harrington; 
+    border: 5px solid;
+    text-align: center;
+    
+}
+#button1{background-color: beige;
+    border: 5px solid;
+    height: 10%;
+    width: 10%;
+    text-align: center;
+    
+}
+#button2{background-color: beige;
+    border: 5px solid;
+    height: 10%;
+    width: 10%;
+    text-align: center;
+    
+    
+}
