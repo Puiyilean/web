@@ -1,0 +1,78 @@
+   <div>
+     <div class="card">
+  <div class="card-body">
+      <b> <a class="nav-link active" aria-current="page" href="Consejeria.html"> Area de consejería</a></b>
+  </div>
+</div>
+     
+     <div class="card">
+  <div class="card-body">
+      <b> <a class="nav-link active" aria-current="page" href="matematica.html"> Area de matematica</a></b>
+</div>
+      </div>
+     <div class="card">
+  <div class="card-body">
+      <b> <a class="nav-link active" aria-current="page" href="secretaria.html">Area de secretaría</a></b>
+  </div>
+</div>
+    
+      <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de ciencias sociales</a></b>
+
+  </div>
+      </div>
+      <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="naturales.html">Area de ciencias naturales</a></b>
+
+  </div>
+      </div>
+      <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de español</a></b>
+
+  </div>
+      </div>
+
+    
+      <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de orientacion</a></b>
+
+  </div>
+      </div>
+      <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de educacion fisica y civica </a></b>
+
+  </div>
+      </div>
+    
+      <div class="card">   
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de ingles</a></b>
+
+  </div>
+      </div>
+   <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="tecnologia.html">Area de tecnologia</a></b>
+
+  </div>
+      </div>
+      <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de informatica</a></b>
+
+  </div>
+      </div>
+         <div class="card">
+  <div class="card-body">
+      <b><a class="nav-link active" aria-current="page" href="Informatica.html">Area de contaduria y finanzas</a></b>
+
+  </div>
+      </div>
+     
+      
+      </div> 
