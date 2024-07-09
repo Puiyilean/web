@@ -1,0 +1,407 @@
+#botones{
+    float:right;
+    margin: 5px;
+     height: 67px;
+color: blueviolet;
+}
+
+
+#colegio{
+    font-family:Forte; 
+   
+    text-shadow: 3px 1px 4px #14430d, 1 2 4px white;
+
+
+}
+.container-fluid{
+
+}
+
+.imagenes{
+     width: 1000px;
+      height: 1550;
+   float: none;
+    margin: 50px;
+    padding: 50px;
+
+}
+
+
+.armador{border-radius: 50%;
+    
+    
+}
+.abajo{color: white;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#tarjetas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+#logo{width: 70px;
+    height: 70px;
+    
+    
+}
+.dropend:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+    margin-left: 0.125em;
+    transition: 0.5s all ease;
+}
+
+@media screen and (min-width: 769px) {
+    .dropend:hover > .dropdown-menu {
+      position: absolute;
+      top: 0;
+      left: 100%;
+      transform: translateY(-2%);
+    }
+}
+
+.dropdown-item{
+    color: black;
+}
+nav{
+    
+    opacity: .9;
+    width: 100%;
+    z-index: 1000;
+ 
+}
+
+.nav-item{
+    color: black;
+    font-weight: 700;
+}
+
+
+.fa-brands{
+    color: black;
+    margin: 10px;
+    align-items: center;
+    transition: all 500ms ease;
+       z-index: 1000;
+}
+
+.fa-brands:hover{
+    color: gray;
+    transform: translateY(-2%);
+           z-index: 1000;
+}
+
+.redes{align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+       z-index: 1000;
+
+}
+.fa-brands{padding: 1px;
+    margin: 1px;
+    font-size: 30px;
+    
+           z-index: 1000;
+    
+}
+.contactos{align-content:flex-end;
+    align-items: flex-end;
+justify-items: flex-end;
+    display: flex;
+           z-index: 1000;
+    
+}
+.colegio{ font-family:Forte; 
+   
+    text-shadow: 3px 1px 4px #14430d, 1 2 4px white;
+       z-index: 1000;
+    
+}
+
+ .card:hover{
+     box-shadow: 8px 8px 8px 8px;
+    background-color: gray;
+    transform: scale(1);
+            z-index: 1000;
+}
+.card{width: 50%;
+    height: 10%;
+    margin: 30px;
+    padding: 30px;
+    float: left;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+           z-index: 1000;
+}
+.tarjetas{align-content:flex-end;
+    align-items: flex-end;
+justify-items: flex-end;
+    display: flex;
+    margin: 0 px auto;
+           z-index: 1000;
+}
+
+
+
+footer{
+    background-color: black;
+}
+h1{
+    text-align: center;
+   
+}
+
+
+
+
+.card container {
+    width: 1000px;
+    height: 300px;
+    perspective: 1000px;
+   float: center;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+  }
+li{
+    color: black;
+} 
+
+
+
+p{
+   font-size: 15px;
+    color: black;
+}
+  .card {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.8s;
+      float: left;
+      display: flex;
+      align-content: center;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+  }
+
+  
+
+  
+  
+.tarjeta{
+    position: relative;
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 110px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+
+
+}
+
+img {align-content: center;
+    justify-items: center;
+    
+    
+}
+.tarjeta img:hover{
+    transform: scale(100);
+}
+.tarjeta img{
+width: 250px;
+    height: 300px;
+    
+  
+}
+.tarjeta .cara {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: .5s;
+}
+
+
+
+
+
+
+.tarjeta .trasera {
+    transform: perspective(600px) rotateY(180deg);
+
+    padding: 15px;
+    color: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: 0 5px 10px #000;
+    text-align: justify-all;
+}
+.tarjeta .delantera {
+   text-align: justify-all;    padding: 15px;
+    color: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: 0 5px 10px #000;
+}
+
+
+.tarjeta .delantera .link {
+    border-top: solid 1px #f3f3f3;
+    height: 50px;
+    line-height: 50px;
+}
+
+.tarjeta .delantera .link a {
+    color: #f3f3f3;
+}
+
+
+.tarjeta .delantera h3{
+    font-size: 30px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+.tarjeta .trasera p {
+    letter-spacing: 1px;
+    text-align: justify;
+} 
+.tarjeta .delantera p{
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.tarjeta:hover .delantera {
+    transform: perspective(600px) rotateY(180deg);
+}
+
+.tarjeta:hover .trasera {
+    transform: perspective(600px) rotateY(360deg);
+}
+.main-header {
+  position: relative;
+  background: url(FOTO_Armando_1.jpg);
+  background-size: cover;
+  min-height 700px;
+}
+
+.background-overlay {
+  background: rgba(48, 51, 107,.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.wowslider-container1{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+div1{float: left;
+    
+}
+    
+.container{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+   justify-items: center;
+    
+    margin: 150px;
+    padding: 10px;
+
+
+}
+.row d-flex h-100{
+   
+}
+.col-sm-6 text-center justify-content-center align-self-center{
+     
+}
+.row d-flex h-100{
+    width: -110px;
+    height: -100px;
+    margin: 50px;
+    padding: 50px;
+}
+
+p{
+    color: white;
+}
+{
+    padding: 5px;
+    display: flex;
+    float: left;
+}
+
+button{
+margin: 5px;
+    padding: 10px;
+    width: 260px;
+    height: 50px;
+    float: left;
+
+}
+.btn btn-outline-light{
+    margin: 5px;
+    padding: 10px;
+}
+.areas{
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+padding: 1px;
+    margin-left: 300px;
+   
+}
+.cartas
+{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+}
+body{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.areas img{box-shadow: 0 15px 20px #000;
+    border-radius: 15px;
+    
+}
