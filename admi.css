@@ -1,0 +1,88 @@
+
+
+.abajo{color: white;
+    width: 100%;
+    height: 100%;
+}
+.card{width: 50%;
+    height: 10%;
+    margin: 30px;
+    padding: 30px;
+    float: left;
+}
+
+
+dropend:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+    margin-left: 0.125em;
+    transition: 0.5s all ease;
+}
+
+@media screen and (min-width: 769px) {
+    .dropend:hover > .dropdown-menu {
+      position: absolute;
+      top: 0;
+      left: 100%;
+      transform: translateY(-2%);
+    }
+}
+
+.dropdown-item{
+    color: black;
+}
+nav{
+    opacity: .9;
+    width: 100%;
+}
+
+.nav-item{
+    color: black;
+    font-weight: 700;
+}
+
+
+.fa-brands{
+    color: black;
+    margin: 10px;
+    align-items: center;
+    transition: all 500ms ease;
+}
+
+.fa-brands:hover{
+    color: gray;
+    transform: translateY(-2%);
+}
+
+.redes{align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+
+}
+.fa-brands{padding: 1px;
+    margin: 1px;
+    font-size: 30px;
+    
+    
+    
+}
+.contactos{align-content:flex-end;
+    align-items: flex-end;
+justify-items: flex-end;
+    display: flex;
+    
+    
+}
+
+.card:hover{
+     box-shadow: 8px 8px 8px 8px;
+    background-color: gray;
+    transform: scale(1);
+}
+
+.centro{align-content: center;
+    align-items: center;
+    justify-content: center;
+    
+}
